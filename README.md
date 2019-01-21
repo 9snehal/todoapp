@@ -31,8 +31,8 @@ After creation, your project should look like this:
    config/
      constants.js
    features/
-     Home.js
      Login.js
+     TodoList.js
      TodoItems.js
    helpers/
        auth.js
